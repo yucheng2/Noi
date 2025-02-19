@@ -30,7 +30,8 @@
         "https://tongyi.aliyun.com/qianwen/*",
         "https://jimeng.jianying.com/*",
         "https://chat.deepseek.com/*",
-        "https://metaso.cn/*"
+        "https://metaso.cn/*",
+        "https://chat.qwenlm.ai/*"
       ],
       "js": ["main.js"],
       "run_at": "document_end",

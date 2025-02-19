@@ -33,13 +33,13 @@ Introducing Noi: an AI-enhanced, customizable browser designed to streamline you
 [🕒 History versions...](https://github.com/lencx/Noi/releases)
 
 - **macOS**
-  - [⬇️ x64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_macos_0.4.0.dmg)
-  - [⬇️ arm64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_macos_0.4.0-arm64.dmg)
+    - [⬇️ x64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_macos_0.4.0.dmg)
+    - [⬇️ arm64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_macos_0.4.0-arm64.dmg)
 - **Windows**
-  - [⬇️ x64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi-win32-x64-0.4.0-setup.exe)
+    - [⬇️ x64](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi-win32-x64-0.4.0-setup.exe)
 - **Linux**
-  - [⬇️ AppImage](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_linux_0.4.0.AppImage)
-  - [⬇️ amd64.deb](https://github.com/lencx/Noi/releases/download/v0.4.0/noi_linux_amd64_0.4.0.deb)
+    - [⬇️ AppImage](https://github.com/lencx/Noi/releases/download/v0.4.0/Noi_linux_0.4.0.AppImage)
+    - [⬇️ amd64.deb](https://github.com/lencx/Noi/releases/download/v0.4.0/noi_linux_amd64_0.4.0.deb)
 
 |Preview|Preview|
 |---|---|
@@ -86,11 +86,11 @@ Here is a detailed description of some fields:
 - `version`: Version change
 - `sync`: URL information (optional, has no significance)
 - `modes[]`:
-  - `id`: A unique identifier (use a random string; do not use formats like `noi:xxx` or `noi@xxx` as these are reserved for internal use within Noi)
-  - `parent`: The parent folder this item belongs to (supports nesting)
-  - `text`: Name
-  - `url`: Link
-  - `dir`: Whether it is a folder, default is `false`
+    - `id`: A unique identifier (use a random string; do not use formats like `noi:xxx` or `noi@xxx` as these are reserved for internal use within Noi)
+    - `parent`: The parent folder this item belongs to (supports nesting)
+    - `text`: Name
+    - `url`: Link
+    - `dir`: Whether it is a folder, default is `false`
 
 ### Proxy
 

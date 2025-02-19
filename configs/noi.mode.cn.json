@@ -40,6 +40,12 @@
       "url": "https://chatgpt.com"
     },
     {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "grok",
+      "url": "https://grok.com"
+    },
+    {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
@@ -178,10 +184,28 @@
       "url": "https://tongyi.aliyun.com/qianwen"
     },
     {
+      "id": "noi:qianwenchat",
+      "parent": "noi@aiCN",
+      "text": "千问chat",
+      "url": "https://chat.qwenlm.ai"
+    },
+    {
       "id": "noi:yiyan",
       "parent": "noi@aiCN",
       "text": "文心一言",
       "url": "https://yiyan.baidu.com"
+    },
+    {
+      "id": "noi:deepseek",
+      "parent": "noi@aiCN",
+      "text": "DeepSeek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "noi:yuanbao",
+      "parent": "noi@aiCN",
+      "text": "腾讯元宝",
+      "url": "https://yuanbao.tencent.com/chat"
     },
     {
       "id": "noi:xinghuo",
@@ -200,6 +224,48 @@
       "parent": "noi@aiCN",
       "text": "秘塔",
       "url": "https://metaso.cn"
+    },
+    {
+      "id": "noi:nami",
+      "parent": "noi@aiCN",
+      "text": "纳米搜索",
+      "url": "https://www.n.cn"
+    },
+    {
+      "id": "noi:mchat",
+      "parent": "noi@aiCN",
+      "text": "孟子GPT",
+      "url": "https://www.langboat.com/zh/product/mchat"
+    },
+    {
+      "id": "noi:zidongtaichu",
+      "parent": "noi@aiCN",
+      "text": "紫东太初",
+      "url": "https://taichu-web.ia.ac.cn/#/chat"
+    },
+    {
+      "id": "noi:baixiaoying",
+      "parent": "noi@aiCN",
+      "text": "百小应",
+      "url": "https://ying.baichuan-ai.com/chat"
+    },
+    {
+      "id": "noi:yuewen",
+      "parent": "noi@aiCN",
+      "text": "跃问",
+      "url": "https://yuewen.cn/chats/new"
+    },
+    {
+      "id": "noi:hailuo",
+      "parent": "noi@aiCN",
+      "text": "海螺",
+      "url": "https://hailuoai.com/"
+    },
+     {
+      "id": "noi:wenxiaobai",
+      "parent": "noi@aiCN",
+      "text": "问小白",
+      "url": "https://www.wenxiaobai.com"
     },
     {
       "id": "noi:github",

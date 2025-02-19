@@ -19,6 +19,14 @@
       "disabled": false
     },
     {
+      "name": "@noi/export-chatgpt",
+      "description": "ChatGPT chat history export, supports PDF, Image, and Markdown formats.",
+      "version": "0.1.1",
+      "url": "https://github.com/lencx/Noi/tree/main/extensions/noi-export-chatgpt",
+      "dirname": "noi-export-chatgpt",
+      "disabled": false
+    },
+    {
       "name": "@noi/reset",
       "description": "Reset certain website styles to enhance compatibility with Noi.",
       "version": "0.1.3",

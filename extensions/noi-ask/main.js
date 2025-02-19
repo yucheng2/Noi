@@ -430,6 +430,15 @@ class MetasoAsk extends NoiAsk {
     if (btn) btn.click();
   }
 }
+class QwenChatAsk extends NoiAsk {
+  static name = 'QwenChat'; // 秘塔
+  static url = 'https://chat.qwenlm.ai';
+
+  static submit() {
+    const btn = document.querySelector('button#send-message-button');
+    if (btn) btn.click();
+  }
+}
 
 window.NoiAsk = {
   OpenAIAsk,
@@ -454,4 +463,5 @@ window.NoiAsk = {
   DeepSeekAsk,
   GitHubCopilotAsk,
   MetasoAsk,
+  QwenChatAsk
 };

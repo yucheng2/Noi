@@ -40,6 +40,12 @@
       "url": "https://chatgpt.com"
     },
     {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "grok",
+      "url": "https://grok.com"
+    },
+    {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
